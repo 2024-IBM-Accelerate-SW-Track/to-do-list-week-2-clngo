@@ -18,10 +18,12 @@ export default class About extends Component {
         </div>
         <div className="split right">
           <div className="centered">
-            <div className="name_title">Your Name</div>
+            <div className="name_title">Colin Ngo</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+            Hello! I am currently a rising 3rd-year student with a major in computer science at Cal Poly San Luis Obispo. I'm deeply passionate about helping others through the improvements in technology while discovering opportunities to grow personally. The interaction of computers and humans drives me to create personal projects, honing my problem-solving skills and coding expertise. I thrive on collaboration by working with like-minded individuals who share a common commitment to making a positive impact. My career interests lie in computer vision, machine learning, and AI. 
+
+            <br /><br />
+            I always look forward to connecting with you! Please reach out to me for any inquiries at cngo27@calpoly.edu
             </div>
           </div>
         </div>
